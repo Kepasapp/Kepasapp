@@ -1,0 +1,21 @@
+PP = ppopular,ppmadrid 
+PSOE = psoe,fundacionideas
+IU = iunida
+UPYD = mareamagenta, upyd, tuvotoutil
+CIU = ciu
+ESQUERRA = esquerra_ERC
+BILDU = bildueh
+
+AGUIRRE = EsperanzAguirre
+LISSAVETZKY = ClaveQCambiaMAD, oiglesiasf
+PEREZ = angelpereziu
+VELASCO = develascorami
+
+GALLARDON = equipogallardon, fgranadoslerena, beatrizelorriag, luciafigar, juansoler_,ccifuentes
+GOMEZ = contigotomas,ruthporta,noeliamtnez,pedro_zerolo,carmencarazo,almudenafc,viondi,pedro_calvopoch
+GORDO = gregorio_gordo
+ORTEGA = davidortega2011
+
+DPEREZ = davidperez
+
+ 

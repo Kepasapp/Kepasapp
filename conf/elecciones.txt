@@ -1,0 +1,41 @@
+22M = #22M
+
+# Partidos políticos
+PP = PP, Partido Popular
+PSOE = PSOE, Partido Socialista
+IU = IU, Izquierda Unida
+UPYD = UPYD, Unión Progreso y Democracia, Union Progreso y Democracia, votoutil
+CIU = CIU, Convergencia i Unió, Convergencia i Unió 
+BNG = BNG, Bloque Nacionalista Galego
+ERC = ERC, Esquerra Republicana, Esquerra
+PNV = PNV, EAJ-PNV, Partido Nacionalista Vasco 
+BILDU = Bildu, Sortu, Batasuna
+
+# Representantes nacionales
+ZAPATERO = Zapatero, ZP, Rodriguez Zapatero
+RAJOY = Rajoy
+RUBALCABA = Rubalcaba, Rubal
+CHACON = Chacón, Chacon
+COSPEDAL = Cospedal, Dolores de Cospedal
+PONS = Pons, Gonzalez Pons
+LARA = Cayo Lara, Lara
+ROSADIEZ = Rosa Díez, Rosa Diez
+ARTURMAS = Artur Mas
+DURANILLEIDA = Duran i LLeida, Duran
+
+# Comunidad de Madrid
+AGUIRRE = Esperanza Aguirre, Aguirre, Esperanzita, Marquesa
+GÓMEZ = Tomás Gómez, Tomas Gomez   
+GORDO = Gregorio Gordo 
+VELASCO = Velasco Ramí
+
+# Alcaldía de Madrid
+GALLARDON = Gallardón, Ruiz Gallardón, Gallardon
+LISSAVETZKY = Lissavetzky, Lisavetzky, Lissavesky 
+APEREZ = Ángel Pérez, Angel Perez
+ORTEGA = David Ortega, 
+
+# Alcaldía de Alcorcón
+CASCALLANA = Cascallana, Enrique Cascallana
+DPEREZ = David Pérez, David Perez
+TINAQUERO = Tinaquero
